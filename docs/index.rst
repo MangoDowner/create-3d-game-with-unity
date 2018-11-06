@@ -1,16 +1,18 @@
-欢迎阅读《用unity从零开始开发3D游戏》
+用unity从零开始开发3D游戏
 ==================================================
 
-.. image:: images/logo.png
+.. image:: images/logo.jpeg
+
 
 
 .. toctree::
-      :maxdepth: 2
-      :caption: 目录
+    :maxdepth: 1
+    :caption: 目录
 
-      index
-      authors
-      readme.rst
+    index
+    authors
+    readme
+    manage-state
 
 Indices and tables
 ==================
