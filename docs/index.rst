@@ -6,13 +6,13 @@
 
 
 .. toctree::
-    :maxdepth: 1
-    :caption: 目录
+   :maxdepth: 1
+   :caption: 目录
 
-    index
-    authors
-    readme
-    manage-state
+   index
+   authors
+   readme
+   manage-state
 
 Indices and tables
 ==================
